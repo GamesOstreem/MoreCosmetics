@@ -1,0 +1,6 @@
+name: Morecosmetics
+version: '${project.version}'
+main: morecosmetics.paper.main
+api-version: 1.19
+commands:
+  recipes:
